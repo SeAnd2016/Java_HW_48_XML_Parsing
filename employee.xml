@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee id="123456">
+		<name>
+			<first>John</first>
+			<last>Muir</last>
+		</name>
+	</employee>
+</employees>

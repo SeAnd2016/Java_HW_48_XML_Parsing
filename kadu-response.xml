@@ -1,0 +1,471 @@
+<kadu-response
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KaduSearchResponse.xsd">
+	<server>
+		<orig-kw>sony</orig-kw>
+		<normalized-kw>sony</normalized-kw>
+		<engine>phx-kadu1</engine>
+		<database>ebayprod</database>
+		<lang_id>1</lang_id>
+		<country_id>1</country_id>
+		<kadu-branch>master</kadu-branch>
+		<kadu-version>kadu.6918</kadu-version>
+		<kadu-index-info>index.201701140047</kadu-index-info>
+	</server>
+	<categories count="1">
+		<category xref="0">
+			<form-id>7185</form-id>
+			<name>Digital Cameras</name>
+		</category>
+	</categories>
+	<products count="0"></products>
+	<deals count="10">
+		<deal xref="0" docId="1093880" score="51" indexTier="1">
+			<id>1akC7-skm3fAZ9e0auxG0g==</id>
+			<name>
+Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black) w/ 4GB Card, Case and More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.6 in Depth 0.7 in Height 2 in Weight 3.5 oz Enclosure Color Black Main Features Resolution 14.1 Megapixel Color Support Color Optical Sensor Type Super HAD CCD Effective Sensor Resolution 14,100,000 pixels Optical Sensor Size 1/2.3 Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 1.45 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Flash Memory 45 MB flash - integrated (soldered memory - 45 MB ) Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 8 in - 26 ft Features AF illuminator Lens System Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7 Focal Length 4.7 mm - 18.8 mm Focal Length Equivalent to 35mm Camera 26 - 105mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Range 1.6 in Macro Focus Rang...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>174</price>
+			<orig-price>174</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<image-location>109</image-location>
+			<image-height>250</image-height>
+			<image-width>249</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350B</sku>
+		</deal>
+		<deal xref="1" docId="1095658" score="51" indexTier="1">
+			<id>VGo50uNyGbYE5oIhj0n0hQ==</id>
+			<name>
+Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Pink) w/ 4GB Card, Case and More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.6 in Depth 0.7 in Height 2 in Weight 3.5 oz Enclosure Color Black Main Features Resolution 14.1 Megapixel Color Support Color Optical Sensor Type Super HAD CCD Effective Sensor Resolution 14,100,000 pixels Optical Sensor Size 1/2.3 Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 1.45 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Flash Memory 45 MB flash - integrated (soldered memory - 45 MB ) Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 8 in - 26 ft Features AF illuminator Lens System Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7 Focal Length 4.7 mm - 18.8 mm Focal Length Equivalent to 35mm Camera 26 - 105mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Range 1.6 in Macro Focus Rang...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>214</price>
+			<orig-price>214</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>105</image-location>
+			<image-height>244</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350P</sku>
+		</deal>
+		<deal xref="2" docId="1096976" score="51" indexTier="1">
+			<id>pdHsDbfWPij3Bz1JWschDw==</id>
+			<name>
+Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black)
+</name>
+			<description>
+26mm equivalent Carl Zeiss Vario-Tessar wide lens with 4x optical zoom Capture breathtaking images in Sweep Panorama Mode 14.1 megapixel 2.7? LCD screen in a compact design. Capture your videos in HD Movie mode (720p) Optical SteadyShot image stabilization reduces blur iAuto mode automatically optimizes camera settings Smile Shutter technology automatically captures a smile Face Detection technology captures faces naturally Anti-blink, Face Priority and Red-eye Reduction functions Self-Portrait Timer makes self-portraits easy DRO Standard and Plus recovers shadow detail in high contrast scenes iSCN detects 8 scene conditions and adjusts camera settings 10 convenient scene modes Easy Shooting Mode simplifies camera operation Find your photos using the simple folder or calendar viewing modes In-camera Retouching Tools to edit your photos Easy image management helps find your pictures PHOTOMUSIC feature combines HD slideshow with music PhotoTV HD Mode with compatible BRAVIA HDTVs Function Guide helps explain menus and settings Included lithium-ion battery for long-lasting power Card slot for optional Memory Stick Duo media and SD media Includes Sony PMB (Picture Motion Browser) and PMB Portable software Available in silver, black, pink and blue. 14.1 Megapixel Super HAD CCD Image SensorA powerful 14.1 megapixel 1/2.3? Super HAD CCD image sensor helps you capture gorgeous images with superb contrast and clarity down to the finest detail. With 14.1 megapixels, you can create stunning, photo-quality prints up to A3+ (13x19?) size, or crop your images and still come away with high resolution shots.   Carl Zeiss Vario-Tessar Lens with 4x Optical Zoom with 26mm equivalent wide angleThe professional-quality Carl Zeiss Vario-Tessar 4x optical zoom lens brings distant subjects closer for great outdoor, sports, and travel photos. Thanks to 26mm equivalent of this lens you can also get great group shots in tight spots.   2.7? Clear Photo LCD display (230k...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>149</price>
+			<orig-price>149</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>107</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>SNDSCW350</sku>
+		</deal>
+		<deal xref="3" docId="1097344" score="51" indexTier="1">
+			<id>wHWOWo7muToj__01B9KuHA==</id>
+			<name>
+Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Silver) w/ 4GB Card, Case and More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.6 in Depth 0.7 in Height 2 in Weight 3.5 oz Enclosure Color Black Main Features Resolution 14.1 Megapixel Color Support Color Optical Sensor Type Super HAD CCD Effective Sensor Resolution 14,100,000 pixels Optical Sensor Size 1/2.3 Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 1.45 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Flash Memory 45 MB flash - integrated (soldered memory - 45 MB ) Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 8 in - 26 ft Features AF illuminator Lens System Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7 Focal Length 4.7 mm - 18.8 mm Focal Length Equivalent to 35mm Camera 26 - 105mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Range 1.6 in Macro Focus Rang...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>184</price>
+			<orig-price>184</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350</sku>
+		</deal>
+		<deal xref="4" docId="1097459" score="51" indexTier="1">
+			<id>yW03ICmeyQ91k_NZcc7lCQ==</id>
+			<name>
+Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Blue) w/ 4GB Card, Case and More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.6 in Depth 0.7 in Height 2 in Weight 3.5 oz Enclosure Color Black Main Features Resolution 14.1 Megapixel Color Support Color Optical Sensor Type Super HAD CCD Effective Sensor Resolution 14,100,000 pixels Optical Sensor Size 1/2.3 Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 1.45 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Flash Memory 45 MB flash - integrated (soldered memory - 45 MB ) Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 8 in - 26 ft Features AF illuminator Lens System Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7 Focal Length 4.7 mm - 18.8 mm Focal Length Equivalent to 35mm Camera 26 - 105mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Range 1.6 in Macro Focus Rang...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>174</price>
+			<orig-price>174</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>109</image-location>
+			<image-height>247</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350L</sku>
+		</deal>
+		<deal xref="5" docId="1116319" score="51" indexTier="1">
+			<id>8BOSO3NvdWq26yLAtHVBvw==</id>
+			<name>
+Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Pink) with 8GB Card, Case, More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.7 in Depth 0.7 in Height 2.2 in Weight 4.5 oz Enclosure Color Red Body Material Metal Main Features Resolution 10.2 Megapixel Color Support Color Optical Sensor Type Exmor R CMOS Effective Sensor Resolution 10,200,000 pixels Optical Sensor Size 1/2.4 Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white) Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 10 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Integrated Memory 45 MB Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080 Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 3 in - 19.7 ft Features AF illuminator Lens System Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3 Focal Length 4.43 mm - 17.7 mm Focal Length Equivalent to 35mm Camera 25 - 100mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Ra...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>258</price>
+			<orig-price>258</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>109</image-location>
+			<image-height>249</image-height>
+			<image-width>250</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5P</sku>
+		</deal>
+		<deal xref="6" docId="1118035" score="51" indexTier="1">
+			<id>G8zP4CMGsLlQfuvSwBPBaA==</id>
+			<name>
+Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Green) with 8GB Card, Case, More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.7 in Depth 0.7 in Height 2.2 in Weight 4.5 oz Enclosure Color Red Body Material Metal Main Features Resolution 10.2 Megapixel Color Support Color Optical Sensor Type Exmor R CMOS Effective Sensor Resolution 10,200,000 pixels Optical Sensor Size 1/2.4 Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white) Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 10 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Integrated Memory 45 MB Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080 Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 3 in - 19.7 ft Features AF illuminator Lens System Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3 Focal Length 4.43 mm - 17.7 mm Focal Length Equivalent to 35mm Camera 25 - 100mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Ra...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>318</price>
+			<orig-price>318</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5G</sku>
+		</deal>
+		<deal xref="7" docId="1121827" score="51" indexTier="1">
+			<id>YN5XnVm7r3p0ylUtI3r-Ug==</id>
+			<name>
+Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Silver) with 8GB Card, Case, More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.7 in Depth 0.7 in Height 2.2 in Weight 4.5 oz Enclosure Color Red Body Material Metal Main Features Resolution 10.2 Megapixel Color Support Color Optical Sensor Type Exmor R CMOS Effective Sensor Resolution 10,200,000 pixels Optical Sensor Size 1/2.4 Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white) Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 10 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Integrated Memory 45 MB Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080 Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 3 in - 19.7 ft Features AF illuminator Lens System Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3 Focal Length 4.43 mm - 17.7 mm Focal Length Equivalent to 35mm Camera 25 - 100mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Ra...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>288</price>
+			<orig-price>288</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>102</image-location>
+			<image-height>250</image-height>
+			<image-width>248</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5</sku>
+		</deal>
+		<deal xref="8" docId="1123540" score="51" indexTier="1">
+			<id>g0oGUFh3cdtt1XGH5i5WYA==</id>
+			<name>
+Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Red) with 8GB Card, Case, More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.7 in Depth 0.7 in Height 2.2 in Weight 4.5 oz Enclosure Color Red Body Material Metal Main Features Resolution 10.2 Megapixel Color Support Color Optical Sensor Type Exmor R CMOS Effective Sensor Resolution 10,200,000 pixels Optical Sensor Size 1/2.4 Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white) Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 10 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Integrated Memory 45 MB Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080 Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 3 in - 19.7 ft Features AF illuminator Lens System Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3 Focal Length 4.43 mm - 17.7 mm Focal Length Equivalent to 35mm Camera 25 - 100mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Ra...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>328</price>
+			<orig-price>328</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+
+			<image-location>109</image-location>
+			<image-height>250</image-height>
+			<image-width>249</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5R</sku>
+		</deal>
+		<deal xref="9" docId="1137455" score="51" indexTier="1">
+			<id>OV97tWe7_DYajsFjWSwlVQ==</id>
+			<name>
+Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Blue) w/ 4GB Card, Case and More
+</name>
+			<description>
+General Product Type Digital camera - compact Width 3.6 in Depth 0.7 in Height 2 in Weight 3.5 oz Enclosure Color Black Main Features Resolution 14.1 Megapixel Color Support Color Optical Sensor Type Super HAD CCD Effective Sensor Resolution 14,100,000 pixels Optical Sensor Size 1/2.3 Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto Digital Zoom 2 x Shooting Modes Frame movie mode Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet Image Stabilizer Optical (Steady Shot) Max Shutter Speed 1/1600 sec Min Shutter Speed 2 sec Exposure Metering Multi-segment, center-weighted, spot Exposure Modes Program, automatic Exposure Compensation ±2 EV range, in 1/3 EV steps Face Detection Yes White Balance Custom, automatic, presets White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater Digital Video Format MPEG-4 Still Image Format JPEG Continuous Shooting Speed 1.45 frames per second Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps Memory / Storage Flash Memory 45 MB flash - integrated (soldered memory - 45 MB ) Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo Camera Flash Camera Flash Built-in flash Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction Red Eye Reduction Yes Effective Flash Range 8 in - 26 ft Features AF illuminator Lens System Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7 Focal Length 4.7 mm - 18.8 mm Focal Length Equivalent to 35mm Camera 26 - 105mm Focus Adjustment Automatic Auto Focus TTL contrast detection Auto Focus Points (Zones) 9 Min Focus Range 1.6 in Macro Focus Rang...
+</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>164</price>
+			<orig-price>0</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+
+			<image-location>109</image-location>
+			<image-height>247</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350L</sku>
+		</deal>
+	</deals>
+	<merchants count="2">
+		<merchant xref="0">
+			<name>BeachCamera.com</name>
+			<id>9190</id>
+			<review-avg>4.63</review-avg>
+			<review-count>7277</review-count>
+			<is-paying>1</is-paying>
+			<is-certified>1</is-certified>
+			<homebase-id>1</homebase-id>
+			<has-info>0</has-info>
+			<phone>1-800-572-3224x1</phone>
+			<has-logo>1</has-logo>
+			<logo-addon>true</logo-addon>
+			<phone-addon>false</phone-addon>
+			<epi-product-id>191508878209</epi-product-id>
+			<seo-name>store beach camera com</seo-name>
+			<store-url>http://www.beachcamera.com</store-url>
+		</merchant>
+		<merchant xref="1">
+			<name>BuyDig.com</name>
+			<id>9180</id>
+			<review-avg>4.48</review-avg>
+			<review-count>7854</review-count>
+			<is-paying>1</is-paying>
+			<is-certified>1</is-certified>
+			<homebase-id>1</homebase-id>
+			<has-info>0</has-info>
+			<phone>800-617-4686 x1</phone>
+			<has-logo>1</has-logo>
+			<logo-addon>true</logo-addon>
+			<phone-addon>false</phone-addon>
+			<epi-product-id>186469618561</epi-product-id>
+			<seo-name>store buydig com</seo-name>
+			<store-url>http://www.buydig.com/</store-url>
+		</merchant>
+	</merchants>
+	<display-items count="10" total="1500" begin-item="0" end-item="9">
+		<item xref="0">
+			<type>deal</type>
+		</item>
+		<item xref="1">
+			<type>deal</type>
+		</item>
+		<item xref="2">
+			<type>deal</type>
+		</item>
+		<item xref="3">
+			<type>deal</type>
+		</item>
+		<item xref="4">
+			<type>deal</type>
+		</item>
+		<item xref="5">
+			<type>deal</type>
+		</item>
+		<item xref="6">
+			<type>deal</type>
+		</item>
+		<item xref="7">
+			<type>deal</type>
+		</item>
+		<item xref="8">
+			<type>deal</type>
+		</item>
+		<item xref="9">
+			<type>deal</type>
+		</item>
+	</display-items>
+	<response-time>324</response-time>
+</kadu-response>
